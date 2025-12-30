@@ -9,6 +9,11 @@ import Home from   "./pages/Home"
 import Movie from  "./pages/Movie"
 import Search from "./pages/Search"
 
+const basename =
+  import.meta.env.MODE === 'production'
+    ? '/movies-lib'
+    : '/';
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>

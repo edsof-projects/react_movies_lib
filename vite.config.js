@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
  
 export default defineConfig({ 
   plugins: [react()], 
-  base: '/movies-lib/',   // 👈 Caminho EXATO da sua pasta 
+  base: './',   // 👈 Caminho EXATO da sua pasta 
 }); 
  

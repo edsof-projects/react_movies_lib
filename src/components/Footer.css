@@ -1,14 +1,16 @@
 footer{
     width: 100%;
-    height: 150px;
+    margin-top: 2rem;
 }
 
 footer .footer__textos{
-    padding: 3rem;
+    width: 100%;
+    padding: 2rem;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    background-color: #121212;
 }
 
 footer .footer__textos h2{
@@ -18,4 +20,8 @@ footer .footer__textos h2{
 
 footer .footer__textos span{
     display: block;
+}
+
+.img__voltar{
+    font-size: 3rem;
 }
