@@ -17,6 +17,7 @@
 body{
   background-color: var(--pretoTotal);
   color: var(--brancoTotal);
+  position: relative;
 }
 
 a{

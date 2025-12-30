@@ -1,6 +1,6 @@
 footer{
     width: 100%;
-    margin-top: 2rem;
+    margin-top: 2rem;    
 }
 
 footer .footer__textos{
@@ -20,8 +20,4 @@ footer .footer__textos h2{
 
 footer .footer__textos span{
     display: block;
-}
-
-.img__voltar{
-    font-size: 3rem;
 }
