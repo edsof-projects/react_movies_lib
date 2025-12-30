@@ -22,9 +22,6 @@
     transform: translateY(-4px);
     color: #F7D354;
   }
-
-  .area__imgVoltar{
-    transition: color 0.3s ease, opacity 0.3s ease;
-  }
+  
   /* /btnVoltar */
 }

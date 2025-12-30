@@ -16,12 +16,12 @@ const basename =
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
       <Routes>
          <Route element={<App />}>
-            <Route path='/' element={<Home />} />
-            <Route path='movie/:id' element={<Movie />} />
-            <Route path='search' element={<Search />} />
+            <Route path='/'         element={<Home />}   />
+            <Route path='movie/:id' element={<Movie />}  />
+            <Route path='search'    element={<Search />} />
          </Route>
       </Routes>
     </BrowserRouter>
