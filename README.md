@@ -1,12 +1,72 @@
-# React + Vite
+<h1 align="center">
+  Biblioteca de Filmes 📽️
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img alt="imagem preview" src="./src/.github/preview-desktop.png" width="100%">
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+ <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=0099CC&labelColor=E6C744" alt="License">
+</p>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img alt="logo do site" src="./src/.github/logo-plane.png" width="20%">
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+Conceitos aplicados:
+✅ acesso a API externa
+✅ cards com imagens e textos
+✅ grids responsivos
+✅ footer com dados do desenvolvedor
+✅ Responsividade em todo projeto
+
+## 🚧 Projeto:
+
+Link do projeto publicado :[http://edsof.dicadecompra.com/movies-lib]
+
+Link do repositório       :[https://github.com/edsof-projects/react_movies_lib]
+
+
+## 🎨 Inspiração:
+
+Canal Youtube             : [@MatheusBattisti]
+
+
+## :memo: Licença :
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
+## 👨🏿‍🦱 Autor:
+
+<p>
+   Edi Aquino de Souza
+   [https://www.linkedin.com/in/edsouzza/]
+</p>
+
+
+## © Copyright: 
+
+Todos os direitos reservados a [edsof informática]
+
+<p align="left">
+  <img alt="imagem logo edsof" src="./src/.github/logo-da-edsof.png" width="5%">
+</p>
+
+---
